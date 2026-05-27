@@ -1,0 +1,12 @@
+there are 4 types of recommendation systems 
+
+1. popularity based - 
+- it is based on a formula, company has made 
+- it recommend the most popular product of a company 
+
+2. Content based 
+- find similarity btw two product based on thier attributes 
+
+3. collaborating filtering based 
+
+4. Hybrid recommender system 

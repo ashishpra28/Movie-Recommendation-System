@@ -1,7 +1,7 @@
 [project]
-name = "movies-recommendation"
+name = "Movie-Recommendation-System"
 version = "0.1.0"
-description = "Add your description here"
+description = "Developed an NLP-based movie recommendation engine using TF-IDF, cosine similarity, and metadata feature engineering to generate personalized movie recommendations from 45K+ movies."
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
